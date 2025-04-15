@@ -6,6 +6,10 @@ __pycache__/
 # Outputs and plots
 plots/
 output/
+
+test_file.py
+.idea/
+
 # OS generated files #
 ######################
 .DS_Store
