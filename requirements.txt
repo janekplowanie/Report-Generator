@@ -1,4 +1,3 @@
 matplotlib
 reportlab
-pillow
 python-docx
